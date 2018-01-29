@@ -3,7 +3,7 @@ exec command when file is changed
 
 # Install
 ```
-curl 
+curl  https://raw.githubusercontent.com/dengyaolong/inotify/master/inotify > ~/bin/inotify
 ```
 
 # Usage
